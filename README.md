@@ -8,7 +8,7 @@ Olá! Sou o Bruno, um estudante de programação que está começando sua jornad
 - Git, GitHub
 - Visual Studio Code
 
-##🌱 <strong>Aprendendo atualmente</strong>
+## 🌱 <strong>Aprendendo atualmente</strong>
 
 Atualmente, estou focado em aprimorar minhas habilidades em:
 
@@ -16,7 +16,7 @@ Atualmente, estou focado em aprimorar minhas habilidades em:
 - Desenvolvimento Web
 - Git e Controle de Versão
 
-##🤔 <strong>Gostaria de ajuda em</strong>
+## 🤔 <strong>Gostaria de ajuda em</strong>
 
 - JavaScript avançado
 - Compiladores
