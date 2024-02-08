@@ -1,16 +1,29 @@
-### Hi there 👋
+#Bem-vindo ao meu perfil! 👋
 
-<!--
-**Brunoopdev/Brunoopdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Sou o Bruno, um estudante de programação que está começando sua jornada na área de desenvolvimento, este é meu GitHub.
 
-Here are some ideas to get you started:
+## 🚀 <strong>Tecnologias e Ferramentas</strong>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML, CSS, JavaScript
+- Git, GitHub
+- Visual Studio Code
+
+##🌱 <strong>Aprendendo atualmente</strong>
+
+Atualmente, estou focado em aprimorar minhas habilidades em:
+
+- Front-end Development
+- Desenvolvimento Web
+- Git e Controle de Versão
+
+##🤔 <strong>Gostaria de ajuda em</strong>
+
+- JavaScript avançado
+- Compiladores
+- JavaScript + HTML
+
+## 🤝 <strong>Conecte-se Comigo</strong>
+
+## 📫 <strong>Entre em Contato</strong>
+
+Se você é um desenvolvedor iniciante ou experiente, adoraria trocar informações sobrea a área, qualquer conhecimento e ajuda é bem vindo, sinta-se a vontade para entrar em contato comigo!
