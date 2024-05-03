@@ -4,7 +4,7 @@ Olá! Sou o Bruno, um estudante de programação que está começando sua jornad
 
 ## 🚀 <strong>Tecnologias e Ferramentas</strong>
 
--JavaScript, TypeScript, Node.js
+- JavaScript, TypeScript, Node.js
 - HTML, CSS, Gulp, Sass
 - Git, GitHub
 - Visual Studio Code
