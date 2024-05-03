@@ -4,7 +4,8 @@ Olá! Sou o Bruno, um estudante de programação que está começando sua jornad
 
 ## 🚀 <strong>Tecnologias e Ferramentas</strong>
 
-- HTML, CSS, JavaScript, Gulp, Sass
+-JavaScript, TypeScript, Node.js
+- HTML, CSS, Gulp, Sass
 - Git, GitHub
 - Visual Studio Code
 
@@ -15,13 +16,13 @@ Atualmente, estou focado em aprimorar minhas habilidades em:
 - Front-end Development
 - Desenvolvimento Web
 - Git e Controle de Versão
-- PHP e SQL
+- SQL
+- javaScript
 - Java
 
 ## 🤔 <strong>Gostaria de ajuda em</strong>
 
 - JavaScript avançado
-- Compiladores
 - Java
 
 ## 🤝 <strong>Conecte-se Comigo</strong>
