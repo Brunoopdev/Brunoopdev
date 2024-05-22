@@ -21,11 +21,11 @@
 
 ### <📊> GitHub Stats </📊>
 
-[![ivopc' GitHub stats](https://github-readme-stats.vercel.app/api?username=ivopc&show_icons=true&theme=dark&count_private=true&hide=contribs)](https://github.com/ivopc) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivopc&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/ivopc) 
+[![ivopc' GitHub stats](https://github-readme-stats.vercel.app/api?username=brunoopdev&show_icons=true&theme=dark&count_private=true&hide=contribs)](https://github.com/brunoopdev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunoopdev&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/brunoopdev) 
 
 ---
 
-### <💬> Contact Me </💬>
+### <💬> Entre em contato </💬>
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-2986cc?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=https%3A%2F%2Flinkedin.com%2Fin%2Fbruno-paes-dev%2F
 )](https://linkedin.com/in/bruno-paes-dev/)
