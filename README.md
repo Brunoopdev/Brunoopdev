@@ -27,5 +27,5 @@
 
 ### <💬> Contact Me </💬>
 
-[![Linkedin](https://img.shields.io/badge/Linkedin-00d1ff?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=https%3A%2F%2Flinkedin.com%2Fin%2Fbruno-paes-dev%2F
+[![Linkedin](https://img.shields.io/badge/Linkedin-2986cc?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=https%3A%2F%2Flinkedin.com%2Fin%2Fbruno-paes-dev%2F
 )](https://linkedin.com/in/bruno-paes-dev/)
