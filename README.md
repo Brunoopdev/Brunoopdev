@@ -1,4 +1,4 @@
-# Bem-vindo ao meu perfil! 👋
+### Bem-vindo ao meu perfil! 👋
 
 Olá! Sou o Bruno, um estudante de programação que está começando sua jornada na área de desenvolvimento, este é meu GitHub.
 
