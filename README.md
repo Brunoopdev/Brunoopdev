@@ -8,7 +8,7 @@
 
 ### 📚 Estudando atualmente
 
-![badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white) ![Statistics](https://img.shields.io/badge/Statistics-4E73DF?style=for-the-badge&logo=statistics&logoColor=white) ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) 
+![badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue) ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black) ![Statistics](https://img.shields.io/badge/Statistics-4E73DF?style=for-the-badge&logo=statistics&logoColor=white)
 ---
 
 ### 💬 Entre em contato 
