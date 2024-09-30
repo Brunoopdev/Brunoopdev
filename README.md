@@ -3,7 +3,7 @@
 ---
 ### 🛠 Ferramentas principais
 
-![Static Badge](https://img.shields.io/badge/SQlite-%23003B57?style=for-the-badge&logo=SQlite)   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sql&logoColor=white) ![Static Badge](https://img.shields.io/badge/SQlite-%23003B57?style=for-the-badge&logo=SQlite)   ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 ---
 
 ### 📚 Estudando atualmente
